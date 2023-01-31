@@ -1,0 +1,17 @@
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\bin\Debug\net6.0-windows\EntraEdad.exe
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\bin\Debug\net6.0-windows\EntraEdad.deps.json
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\bin\Debug\net6.0-windows\EntraEdad.runtimeconfig.json
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\bin\Debug\net6.0-windows\EntraEdad.dll
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\bin\Debug\net6.0-windows\ref\EntraEdad.dll
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\bin\Debug\net6.0-windows\EntraEdad.pdb
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\EntraEdad.vbproj.AssemblyReference.cache
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\EntraEdad.Form1.resources
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\EntraEdad.vbproj.GenerateResource.cache
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\EntraEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\EntraEdad.AssemblyInfoInputs.cache
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\EntraEdad.AssemblyInfo.vb
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\EntraEdad.vbproj.CoreCompileInputs.cache
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\EntraEdad.dll
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\ref\EntraEdad.dll
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\EntraEdad.pdb
+C:\Users\juanq\source\repos\EntraEdad\EntraEdad\obj\Debug\net6.0-windows\EntraEdad.genruntimeconfig.cache
